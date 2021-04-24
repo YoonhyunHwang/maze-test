@@ -1,0 +1,2 @@
+# maze-test
+maze only
